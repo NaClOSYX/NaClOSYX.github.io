@@ -50,10 +50,12 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: false
+  exclude_languages: ['mermaid']
 prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
+  exclude_languages: ['mermaid']
 marked:
   prependRoot: true
   postAsset: true
@@ -111,31 +113,52 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid  # 指定主题
+theme: butterfly  # 指定主题
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
 
-markdown_it_plus:
-    highlight: true
+
+
+markdown:
+  preset: 'default'
+  render:
     html: true
-    xhtmlOut: trues
+    xhtmlOut: false
+    langPrefix: 'language-'
     breaks: true
-    langPrefix:
     linkify: true
-    typographer:
-    quotes: “”‘’
-    pre_class: highlight
-    plugins:
-      - plugin:
-          name: markdown-it-checkbox
-          enable: true
-      - plugin:
-          name: "@traptitech/markdown-it-katex"
-          enable: true
-# Mermaid tag
-mermaid:
-  enable: true
+    typographer: true
+    quotes: '“”‘’'
+  enable_rules:
+  disable_rules:
+  plugins:
+    - name: '@renbaoshuo/markdown-it-katex'
+      options:
+    - name: 'markdown-it-checkbox'
+      options: 
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
+  images:
+    lazyload: false
+    prepend_root: false
+    post_asset: false
+  inline: false  # https://markdown-it.github.io/markdown-it/#MarkdownIt.renderInline
+
+# 加密
+encrypt: # hexo-blog-encrypt
+  abstract: 有东西被加密了, 请输入密码查看.
+  message: 您好, 这里需要密码.
+  theme: xray
+  wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
+  wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 
