@@ -1089,7 +1089,7 @@ CDN:
     # main_css:
     # mathjax:
     # medium_zoom:
-    # mermaid:
+    mermaid: https://cdn.staticfile.net/mermaid/11.3.0/mermaid.min.js
     # meting_js:
     # pangu:
     # prismjs_autoloader:
