@@ -1,10 +1,17 @@
 ---
 title: Spring 学习笔记
-date: 2020-07-08 00:00:00 +0800
-updated: 2020-07-08 00:00:00 +0800
-categories: [博客, 后端]
-tags: [学习, 后端, java, Spring] 
+date: '2020-07-08 00:00:00 +0800'
+updated: '2020-07-08 00:00:00 +0800'
+categories:
+  - 博客
+  - 后端
+tags:
+  - 学习
+  - 后端
+  - java
+  - Spring
 author: NaClO
+abbrlink: 941381954
 ---
 
 ## 1. Spring概述

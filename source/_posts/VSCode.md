@@ -1,10 +1,15 @@
 ---
 title: VSCode
-date: 2024-09-01 00:00:00 +0800
-updated: 2024-09-01 00:00:00 +0800
-categories: [博客, 配置]
-tags: [环境, 配置] 
+date: '2024-09-01 00:00:00 +0800'
+updated: '2024-09-01 00:00:00 +0800'
+categories:
+  - 博客
+  - 配置
+tags:
+  - 环境
+  - 配置
 author: NaClO
+abbrlink: 3804610536
 ---
 
 ## 安装

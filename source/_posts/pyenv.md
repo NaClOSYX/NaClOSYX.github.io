@@ -1,10 +1,16 @@
 ---
 title: pyenv
-date: 2022-02-01 00:00:00 +0800
-updated: 2022-02-01 00:00:00 +0800
-categories: [博客, python]
-tags: [学习, 后端, python] 
+date: '2022-02-01 00:00:00 +0800'
+updated: '2022-02-01 00:00:00 +0800'
+categories:
+  - 博客
+  - python
+tags:
+  - 学习
+  - 后端
+  - python
 author: NaClO
+abbrlink: 633561903
 ---
 
 

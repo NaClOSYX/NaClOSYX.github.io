@@ -1,10 +1,17 @@
 ---
 title: JavaWeb 学习笔记
-date: 2020-05-10 00:00:00 +0800
-updated: 2020-05-10 00:00:00 +0800
-categories: [博客, 后端]
-tags: [学习, 后端, java, Web] 
+date: '2020-05-10 00:00:00 +0800'
+updated: '2020-05-10 00:00:00 +0800'
+categories:
+  - 博客
+  - 后端
+tags:
+  - 学习
+  - 后端
+  - java
+  - Web
 author: NaClO
+abbrlink: 254035392
 ---
 
 ## 1、基本概念

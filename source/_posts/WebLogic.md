@@ -1,10 +1,16 @@
 ---
 title: WebLogic
-date: 2022-12-01 00:00:00 +0800
-updated: 2022-12-01 00:00:00 +0800
-categories: [博客, 配置]
-tags: [环境, 配置, 服务器] 
+date: '2022-12-01 00:00:00 +0800'
+updated: '2022-12-01 00:00:00 +0800'
+categories:
+  - 博客
+  - 配置
+tags:
+  - 环境
+  - 配置
+  - 服务器
 author: NaClO
+abbrlink: 1965655825
 ---
 
 # weblogic

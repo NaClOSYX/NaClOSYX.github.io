@@ -1,10 +1,17 @@
 ---
 title: SpringMVC 学习笔记
-date: 2020-07-20 00:00:00 +0800
-updated: 2020-07-20 00:00:00 +0800
-categories: [博客, 后端]
-tags: [学习, 后端, java, Spring] 
+date: '2020-07-20 00:00:00 +0800'
+updated: '2020-07-20 00:00:00 +0800'
+categories:
+  - 博客
+  - 后端
+tags:
+  - 学习
+  - 后端
+  - java
+  - Spring
 author: NaClO
+abbrlink: 3044504095
 ---
 
 ## 1. SpringMVC概述

@@ -1,10 +1,15 @@
 ---
 title: pdfjs pdf组件
-date: 2023-09-15 00:00:00 +0800
-updated: 2023-09-15 00:00:00 +0800
-categories: [博客, 前端]
-tags: [前端, 组件] 
+date: '2023-09-15 00:00:00 +0800'
+updated: '2023-09-15 00:00:00 +0800'
+categories:
+  - 博客
+  - 前端
+tags:
+  - 前端
+  - 组件
 author: NaClO
+abbrlink: 3384889631
 ---
 
 1. GitHub : https://github.com/mozilla/pdf.js

@@ -1,10 +1,16 @@
 ---
 title: vue-drag-resize 拖拽组件
-date: 2022-06-22 00:00:00 +0800
-updated: 2022-06-22 00:00:00 +0800
-categories: [博客, 前端]
-tags: [前端, vue, 组件] 
+date: '2022-06-22 00:00:00 +0800'
+updated: '2022-06-22 00:00:00 +0800'
+categories:
+  - 博客
+  - 前端
+tags:
+  - 前端
+  - vue
+  - 组件
 author: NaClO
+abbrlink: 3721634162
 ---
 
 GitHub：``https://github.com/kirillmurashov/vue-drag-resize``

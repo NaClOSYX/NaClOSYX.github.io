@@ -1,10 +1,16 @@
 ---
 title: Mongodb
-date: 2022-10-17 00:00:00 +0800
-updated: 2022-10-17 00:00:00 +0800
-categories: [博客, 数据库]
-tags: [常用, 学习, 数据库] 
+date: '2022-10-17 00:00:00 +0800'
+updated: '2022-10-17 00:00:00 +0800'
+categories:
+  - 博客
+  - 数据库
+tags:
+  - 常用
+  - 学习
+  - 数据库
 author: NaClO
+abbrlink: 541544980
 ---
 
 ## MAC 下使用Docker安装mongodb

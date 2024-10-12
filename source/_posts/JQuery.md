@@ -1,10 +1,16 @@
 ---
 title: JQuery
-date: 2020-06-10 00:00:00 +0800
-updated: 2020-06-10 00:00:00 +0800
-categories: [博客, 学习]
-tags: [学习, 前端, JavaScript] 
+date: '2020-06-10 00:00:00 +0800'
+updated: '2020-06-10 00:00:00 +0800'
+categories:
+  - 博客
+  - 学习
+tags:
+  - 学习
+  - 前端
+  - JavaScript
 author: NaClO
+abbrlink: 1012917595
 ---
 
 ## 简介

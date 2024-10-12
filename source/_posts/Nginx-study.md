@@ -1,10 +1,16 @@
 ---
 title: Nginx 学习笔记
-date: 2021-01-22 00:00:00 +0800
-updated: 2021-01-22 00:00:00 +0800
-categories: [博客, 学习]
-tags: [学习, 前端, 工具] 
+date: '2021-01-22 00:00:00 +0800'
+updated: '2021-01-22 00:00:00 +0800'
+categories:
+  - 博客
+  - 学习
+tags:
+  - 学习
+  - 前端
+  - 工具
 author: NaClO
+abbrlink: 3238135073
 ---
 
 ## 1. Nginx简介

@@ -1,10 +1,17 @@
 ---
 title: SpringCloud 学习笔记
-date: 2020-08-16 00:00:00 +0800
-updated: 2020-08-16 00:00:00 +0800
-categories: [博客, 后端]
-tags: [学习, 后端, java, Spring] 
+date: '2020-08-16 00:00:00 +0800'
+updated: '2020-08-16 00:00:00 +0800'
+categories:
+  - 博客
+  - 后端
+tags:
+  - 学习
+  - 后端
+  - java
+  - Spring
 author: NaClO
+abbrlink: 3396658148
 ---
 
 SpringCloud官网https://spring.io/projects/spring-cloud

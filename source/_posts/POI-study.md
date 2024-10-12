@@ -1,10 +1,16 @@
 ---
 title: POI 学习笔记
-date: 2020-06-08 00:00:00 +0800
-updated: 2020-06-08 00:00:00 +0800
-categories: [博客, 后端]
-tags: [学习, 后端, java] 
+date: '2020-06-08 00:00:00 +0800'
+updated: '2020-06-08 00:00:00 +0800'
+categories:
+  - 博客
+  - 后端
+tags:
+  - 学习
+  - 后端
+  - java
 author: NaClO
+abbrlink: 2448540444
 ---
 ## 简介
 
