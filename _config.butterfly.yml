@@ -1072,7 +1072,7 @@ CDN:
     # docsearch_css:
     # docsearch_js:
     # egjs_infinitegrid:
-    fancybox: https://cdn.bootcdn.net/ajax/libs/fancyapps-ui/5.0.36/fancybox/fancybox.umd.min.js
+    fancybox: https://cdn.staticfile.net/ajax/libs/fancyapps-ui/5.0.36/fancybox/fancybox.umd.min.js
     fancybox_css: https://cdn.bootcdn.net/ajax/libs/fancyapps-ui/5.0.36/fancybox/fancybox.min.css
     # fireworks:
     fontawesome: https://npm.elemecdn.com/@fortawesome/fontawesome-free/css/all.min.css
