@@ -1,6 +1,7 @@
 ---
 title: node(NVM)
 date: 2024-09-01 00:00:00 +0800
+updated: 2024-09-01 00:00:00 +0800
 categories: [博客, 配置]
 tags: [环境, 配置, 前端] 
 author: NaClO

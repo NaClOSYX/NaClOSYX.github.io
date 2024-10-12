@@ -1,6 +1,7 @@
 ---
 title: Redis 学习笔记
 date: 2020-09-30 00:00:00 +0800
+updated: 2020-09-30 00:00:00 +0800
 categories: [博客, 后端]
 tags: [学习, 后端, 中间件] 
 author: NaClO

@@ -1,6 +1,7 @@
 ---
 title: 常用javascript方法
 date: 2022-12-25 00:00:00 +0800
+updated: 2022-12-25 00:00:00 +0800
 categories: [博客, 前端]
 tags: [常用, 前端, JavaScript] 
 author: NaClO

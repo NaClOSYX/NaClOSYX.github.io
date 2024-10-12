@@ -1,6 +1,7 @@
 ---
 title: Linux环境配置
 date: 2021-03-01 00:00:00 +0800
+updated: 2021-03-01 00:00:00 +0800
 categories: [博客, 配置]
 tags: [环境, 配置, 服务器] 
 author: NaClO

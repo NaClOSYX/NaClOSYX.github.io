@@ -1,6 +1,7 @@
 ---
 title: vue-barcode 条形码组件
 date: 2022-06-24 00:00:00 +0800
+updated: 2022-06-24 00:00:00 +0800
 categories: [博客, 前端]
 tags: [前端, vue, 组件] 
 author: NaClO
