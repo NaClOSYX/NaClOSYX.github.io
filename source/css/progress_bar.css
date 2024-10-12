@@ -8,7 +8,7 @@
     z-index: 2000;
     position: fixed;
     margin: auto;
-    top: 4px;
+    top: 20px;
     left: 0;
     right: 0;
     height: 8px;
@@ -44,9 +44,9 @@
     height: 100%;
     width: 100%;
     /* linear-gradient(to right, #3494e6, #ec6ead) */
-    background: linear-gradient(to right, #43cea2, #3866ca);
+    background: linear-gradient(to right, #34e65b, #e40876);
     animation: gradient 2s ease infinite;
-    background-size: 200%
+    background-size: 120%
 }
 
 .pace.pace-inactive {
