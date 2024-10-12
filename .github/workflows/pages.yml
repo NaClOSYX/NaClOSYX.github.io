@@ -9,6 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Check the current timezone database
+        run: |
+          ls /usr/share/zoneinfo
+          echo "---"
+          date
+          echo "---"
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
