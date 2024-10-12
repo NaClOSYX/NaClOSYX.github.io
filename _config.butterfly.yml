@@ -26,7 +26,7 @@ menu:
   说说: /shuoshuo/ || fas fa-comment-dots
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
-  随机访问: javascript:randomPost(); || fas fa-random
+  随机访问: javascript:randomPost(); || fas fa-shuffle
 
 # --------------------------------------
 # 代码块
@@ -1077,7 +1077,7 @@ CDN:
     fancybox: https://cdn.staticfile.net/ajax/libs/fancyapps-ui/5.0.36/fancybox/fancybox.umd.min.js
     fancybox_css: https://cdn.bootcdn.net/ajax/libs/fancyapps-ui/5.0.36/fancybox/fancybox.min.css
     # fireworks:
-    fontawesome: https://npm.elemecdn.com/@fortawesome/fontawesome-free/css/all.min.css
+    fontawesome: https://cdn.staticfile.net/font-awesome/6.6.0/css/all.min.css
     # gitalk:
     # gitalk_css:
     # giscus:
