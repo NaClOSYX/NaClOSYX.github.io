@@ -12,7 +12,11 @@ jobs:
       - name: Check the current timezone database
         run: |
           ls /usr/share/zoneinfo
+          echo "old date---"
+          date
           echo "---"
+          sudo ln -sf /usr/share/zoneinfo/Hongkong /etc/localtime
+          echo "new date---"
           date
           echo "---"
       - uses: actions/checkout@v4
