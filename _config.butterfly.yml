@@ -26,7 +26,7 @@ menu:
   说说: /shuoshuo/ || fas fa-comment-dots
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
-
+  随机访问: javascript:randomPost(); || fas fa-random
 
 # --------------------------------------
 # 代码块
@@ -1033,6 +1033,8 @@ inject:
     - <script defer src="/js/day.js"></script> # 节日弹窗
     # 网站动态标题
     - <script async src="/js/title.js"></script>
+    # 随机访问一篇文章
+    - <script async src="/js/randomPost.js"></script>
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work
