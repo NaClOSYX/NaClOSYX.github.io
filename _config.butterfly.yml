@@ -11,7 +11,7 @@
 
 nav:
   # 导航栏 Logo 图片
-  logo: /img/naclosyx.png
+  logo: https://www.helloimg.com/i/2024/10/12/670a7e38468af.png
   # 是否显示标题
   display_title: true
   # 是否固定导航栏
@@ -60,10 +60,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/naclosyx.png
+favicon: https://www.helloimg.com/i/2024/10/12/670a7e38468af.png
 
 avatar:
-  img: /img/naclosyx.png
+  img: https://www.helloimg.com/i/2024/10/12/670a7e38468af.png
   effect: false
 
 # Disable all banner images
