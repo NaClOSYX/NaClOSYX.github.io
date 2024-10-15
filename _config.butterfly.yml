@@ -738,8 +738,8 @@ ad:
 # --------------------------------------
 
 site_verification:
-  # - name: google-site-verification
-  #   content: xxxxxx
+  - name: google-site-verification
+    content: t0hMsniwULovphLZf9nA6_Xv9tx1Xxh4FnywzTYdz2U
   - name: baidu-site-verification
     content: codeva-DYHgdVZyzp
 
