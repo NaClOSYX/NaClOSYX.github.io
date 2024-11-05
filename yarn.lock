@@ -1308,11 +1308,6 @@ hexo-generator-tag@^2.0.0:
   dependencies:
     hexo-pagination "3.0.0"
 
-hexo-history-calendar@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.npmmirror.com/hexo-history-calendar/-/hexo-history-calendar-1.0.3.tgz"
-  integrity sha512-XFSqUbOUEE8bwk8wmj0uyk3NIo5cI24YTBZaJDX7phvcANDFXuKWAHqqS4HlByAqeZiaDahS90pCdfjcNWPlYw==
-
 hexo-i18n@^0.2.1:
   version "0.2.1"
   resolved "https://registry.npmmirror.com/hexo-i18n/-/hexo-i18n-0.2.1.tgz"
@@ -1402,10 +1397,10 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-butterfly@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmmirror.com/hexo-theme-butterfly/-/hexo-theme-butterfly-5.0.0.tgz"
-  integrity sha512-fRIUzSa8ZJW/gQKW/wkO6GdzTQULyJdSTVG49Rp3x34J3Cd+53Sp8syoziYkjpNLjiygsezy2Y7F1XKOZbPBeg==
+hexo-theme-butterfly@^5.2.1:
+  version "5.2.1"
+  resolved "https://registry.npmmirror.com/hexo-theme-butterfly/-/hexo-theme-butterfly-5.2.1.tgz"
+  integrity sha512-XhYSbvCcNRaK8fKpxGCadosK8A30BQe4YvvJWuYRTJ7Be6h3bzIcYgdgGPgpBrC5e8MLUfQ4PtJvQkhe0cUCOA==
   dependencies:
     hexo-renderer-pug "^3.0.0"
     hexo-renderer-stylus "^3.0.1"
@@ -1487,7 +1482,7 @@ hexo@^3.0.0:
     titlecase "^1.1.2"
     warehouse "^2.2.0"
 
-hexo@^7.0.0:
+hexo@^7.3.0:
   version "7.3.0"
   resolved "https://registry.npmmirror.com/hexo/-/hexo-7.3.0.tgz"
   integrity sha512-dOe8mzBKrvjubW5oBmyhcnQDpC+M2xmAMLae5K+o+SkHxyvAhShkS2VQZoTsOLIJKY6xilv7dzCjCvE7ol/NHQ==
