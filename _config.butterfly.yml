@@ -14,6 +14,8 @@ nav:
   logo: https://www.helloimg.com/i/2024/10/12/670a7e38468af.png
   # 是否显示标题
   display_title: true
+  # 是否显示文章标题
+  display_post_title: true
   # 是否固定导航栏
   fixed: true
 
@@ -166,7 +168,7 @@ subtitle:
   # Choose: false/1/2/3
   # false - disable the function
   # 1 - hitokoto.cn
-  # 2 - yijuzhan.com
+  # 2 - https://api.aa1.cn/doc/yiyan.html
   # 3 - jinrishici.com
   source: 2
   # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
@@ -263,12 +265,15 @@ noticeOutdate:
 # Footer Settings
 # --------------------------------------
 footer:
+  nav:
   owner:
     enable: true
     since: 2019
-  custom_text:
   # Copyright of theme and framework
-  copyright: true
+  copyright:
+    enable: true
+    version: true
+  custom_text:
 
 # --------------------------------------
 # Aside Settings
@@ -407,6 +412,9 @@ rightside_item_order:
   hide:
   # Default: toc,chat,comment
   show:
+
+# Animation for the bottom right config button
+rightside_config_animation: true
 
 # --------------------------------------
 # 全局配置
@@ -711,6 +719,12 @@ umami_analytics:
     # Umami Cloud (API key) / self-hosted Umami (token)
     token:
 
+# https://www.googletagmanager.com/
+google_tag_manager:
+  tag_id:
+  # optional
+  domain:
+
 # --------------------------------------
 # Advertisement
 # --------------------------------------
@@ -979,17 +993,12 @@ snackbar:
 # https://instant.page/
 instantpage: false
 
-# Pangu - Insert a space between Chinese character and English character
-# https://github.com/vinta/pangu.js
-pangu:
-  enable: false
-  # Specify the field to use pangu (site or post)
-  field: site
-
 # Lazyload
 # https://github.com/verlok/vanilla-lazyload
 lazyload:
   enable: false
+  # Use browser's native lazyload instead of vanilla-lazyload
+  native: false
   # Specify the field to use lazyload (site or post)
   field: site
   placeholder:
@@ -1018,6 +1027,10 @@ Open_Graph_meta:
     # google_plus:
     # fb_admins:
     # fb_app_id:
+
+# Structured Data
+# https://developers.google.com/search/docs/guides/intro-structured-data
+structured_data: true
 
 # Add the vendor prefixes to ensure compatibility
 css_prefix: true
@@ -1097,7 +1110,6 @@ CDN:
     # medium_zoom:
     mermaid: https://cdn.staticfile.net/mermaid/11.3.0/mermaid.min.js
     # meting_js:
-    # pangu:
     # prismjs_autoloader:
     # prismjs_js:
     # prismjs_lineNumber_js:
