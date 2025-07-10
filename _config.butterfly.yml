@@ -57,6 +57,7 @@ social:
    fab fa-github: https://github.com/NaClOSYX || Github || '#24292e'
    fab fa-qq: tencent://message/?uin=2471342008&Site=&Menu=yes || QQ || '#24292e'
    fas fa-envelope: mailto:naclosyx@163.com || mail || '#24292e'
+   fas fa-rss: ./atom.xml
 
 # --------------------------------------
 # Image Settings
