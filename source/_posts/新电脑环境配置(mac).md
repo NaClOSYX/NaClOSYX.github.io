@@ -62,6 +62,49 @@ abbrlink: 149281275
      ```bash
      scutil --get LocalHostName
      ```
+
+## 开盖开机设置
+
+- Intel 芯片
+
+  - 禁用开盖开机
+
+    ```bash
+    sudo nvram AutoBoot=%00
+    ```
+
+  - 恢复默认设置
+
+    ```bash
+    sudo nvram AutoBoot=%03
+    ```
+
+- Apple Silicon 芯片
+
+  - 同时禁用开盖和插入电源时的系统自启动
+
+    ```bash
+    sudo nvram BootPreference=%00
+    ```
+
+  - 只禁用开盖自动启动
+
+    ```bash
+    sudo nvram BootPreference=%01
+    ```
+
+  - 只禁用插入电源时的自动启动
+
+    ```bash
+    sudo nvram BootPreference=%02
+    ```
+
+  - 恢复默认设置
+
+    ```bash
+    sudo nvram -d BootPreference
+    ```
+
 ## Homebrew
 
 1. 官网 : https://brew.sh/zh-cn/
